@@ -1,6 +1,6 @@
 # SPEC.md — Implementation Spec
 
-สเปกนี้ใช้สำหรับสั่ง Claude Code ให้สร้างโปรเจกต์ **Containerized Business Analytics System** ทั้งหมด
+สเปกนี้ใช้สำหรับโปรเจกต์ **Containerized Business Analytics System** ทั้งหมด
 
 ---
 
