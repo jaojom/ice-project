@@ -1,0 +1,20 @@
+node_modules/
+.env
+.env.local
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Docker volumes (local)
+pgdata/
+backups/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude local settings
+.claude/settings.local.json
